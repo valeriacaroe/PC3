@@ -1,1 +1,2 @@
 # PC3
+Esta es mi (PC3)[] donde a partir de cuatro enlaces con data frames, limpio y formateo los datos de cada uno para luego unificarlos en una misma tabla evaluando cómo hay una menor pérdida de información. Con dicho data frame, obtengo valores de media, mínimos y máximos por variable según region y finalmente se presenta la tabla con lo solicitado, es decir, clasificando las variables en 5 intervalos de acuerdo a su valor por país con respecto al del resto.
